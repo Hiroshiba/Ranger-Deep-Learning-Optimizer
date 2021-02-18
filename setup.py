@@ -10,7 +10,7 @@ def read(fname):
 
 
 setup(
-    name='ranger',
+    name='Ranger-Deep-Learning-Optimizer',
     version='0.1.dev0',
     packages=find_packages(
         exclude=['tests', '*.tests', '*.tests.*', 'tests.*']
